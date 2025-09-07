@@ -2,6 +2,8 @@
 title: "Game Mechanics"
 ---
 
+This page is meant to explain the various game mechanics of Parabola in detail. [Concept Breakdown](charter/breakdown/) highlights these amongst other important aspects of the game's design.
+
 ## The Auxiliary Resonance Cannon (ARC)
 
 The breadth of Parabola's primary gameplay loop is based around arcing physics, thus the name, in a nod to the mathematical term for this shape. This is facilitated primarily through the ARC, a handheld cannon-like gun that shoots **Luma**, which are energized bundles of light.
