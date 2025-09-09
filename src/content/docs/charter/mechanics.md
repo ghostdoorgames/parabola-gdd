@@ -46,11 +46,11 @@ In addition to changing the color state of the fired Luma, the player in effect 
 
 Each of the Luma colors has a distinct set of physics and/or effects beyond being necessary to power like-colored puzzle elements. They are as follows:
 
-- White: default neutral Luma
-- Orange: slower, loftier shot - great for Buckets
-- Cyan: fires in a straight line, unaffected by gravity
-- Purple: faster, bouncier shot
-- Gold/Yellow: 2x the charge for longer duration shots, or more bouncing
+- **White**: default neutral Luma
+- **Orange**: slower, loftier shot - great for Buckets
+- **Cyan**: fires in a straight line, unaffected by gravity
+- **Purple**: faster, bouncier shot
+- **Gold**/**Yellow**: 2x the charge for longer duration shots, or more bouncing
 
 ## Mystic Eggs
 

@@ -21,6 +21,10 @@ export default defineConfig({
           label: "Game Charter",
           autogenerate: { directory: "charter" },
         },
+        {
+          label: "Narrative",
+          autogenerate: { directory: "narrative" },
+        },
       ],
     }),
   ],
